@@ -8,4 +8,8 @@ This makes use of the [moves-fetch](https://gist.github.com/KainokiKaede/7264280
 
 ##Usage
 
-TBD
+###Authorization
+
+You will first need to register a new app on [moves-app.com](https://dev.moves-app.com/apps). Enter any metadata you want. Under the "Development" tab in the "Redirect URI" field, put any value (I use "localhost").
+
+After registering the app, you will receive a Client ID and Client Secret.
